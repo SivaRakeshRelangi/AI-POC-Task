@@ -83,7 +83,7 @@ Visit the interactive Swagger docs:
 ## 📥 API Usage
 
 ### `POST /predict`
-Use POST Method and ENDPOINT API --> https://rsrlearner-semanticvaluebetweentwotexts.hf.space/predict
+Use POST Method
 
 **Request:**
 
@@ -139,5 +139,6 @@ age_inappropriate        1.00      1.00      1.00       1
 - 🧍 Human-in-the-loop moderation triggers
 
 - 🌍 Multilingual support
+
 
 - 📊 Real-time monitoring dashboard
